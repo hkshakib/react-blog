@@ -1,0 +1,10 @@
+.Left-Side {
+    flex-basis: 20%;
+    display: flex;
+    background: floralwhite;
+    margin-top: 50px;
+    margin-left: 30px;
+    width: 300px;
+    height: 700px;
+    border-radius: 10px;
+}
