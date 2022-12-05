@@ -1,9 +1,9 @@
 import '../Styles/BlogBody.css'
-import LeftSideBar from './LeftSideBar';
+import Card from './Card.js';
 const BlogBody = () => {
   return (
     <div className="Blog-Body">
-      <LeftSideBar/>
+      <Card/>
     </div>
   );
 };

@@ -1,10 +1,20 @@
 .Left-Side {
     flex-basis: 20%;
     display: flex;
+    justify-content: center;
+    align-items: center;
     background: floralwhite;
     margin-top: 50px;
     margin-left: 30px;
     width: 300px;
     height: 700px;
     border-radius: 10px;
+    flex-direction: column;
+}
+
+.side-btn {
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    border: 1px solid black;
 }
