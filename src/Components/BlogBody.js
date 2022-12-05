@@ -4,6 +4,17 @@ const BlogBody = () => {
   return (
     <div className="Blog-Body">
       <Card/>
+      <Card/>
+      <Card/>
+      <Card/>
+      <Card/>
+      <Card/>
+      <Card/>
+      <Card/>
+      <Card/>
+      <Card/>
+      <Card/>
+      <Card/>
     </div>
   );
 };
